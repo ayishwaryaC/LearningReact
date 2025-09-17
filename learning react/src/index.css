@@ -1,0 +1,32 @@
+.course{
+  background-color: rgb(1, 1, 1);
+  width: 250px;
+  height: 300px;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 30px;
+  
+  border: solid;
+  border-color: rgb(255, 102, 0);
+}
+
+.course:hover{
+  background-color: rgb(255, 133, 2);
+ box-shadow: 0 8px 16px rgba(231, 120, 2, 0.4);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-color: rgb(241, 115, 6);
+  
+}
+
+.course h3,
+.course p{
+  margin-top: 0px;
+  color: rgb(255, 255, 255);
+}
+
+.course img{
+  padding-top: 20px;
+  width: 200px;
+  height: 200px;
+}
