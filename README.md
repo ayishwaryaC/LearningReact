@@ -85,6 +85,12 @@
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/83e79907-bfc5-43ee-8121-b819a1d1d1a8" />
 
+
+### 📅 Day 6 - Conditional Rendering 17/09/25
+
+### 📅 Day 7 - Props Types 18/09/25
+
+
 ---
 
 ✅ With these steps, I have completed the **fundamentals of React up to Props**.
