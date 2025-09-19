@@ -90,7 +90,13 @@
 
 ### 📅 Day 7 - Props Types 18/09/25
 
-
+### 📅 Day 8 - Dynamic content 19/09/25
+gothrouth files 
+ * Dyamiccontent1.jsx using props
+ * Dynamiccontent2.jsx using conditional rendering
+ * Dynamiccontent3.jsx using loops with .map()
+ * Dynamiccontent4.jsx using state
+          
 ---
 
 ✅ With these steps, I have completed the **fundamentals of React up to Props**.
