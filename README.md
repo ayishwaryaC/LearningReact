@@ -96,7 +96,11 @@ gothrouth files
  * Dynamiccontent2.jsx using conditional rendering
  * Dynamiccontent3.jsx using loops with .map()
  * Dynamiccontent4.jsx using state
-          
+
+### 📅 Day 9 - Keys in react 20/09/25
+Mostly when rendering lists using .map().
+gothrougth files
+ * key1.jsx 
 ---
 
 ✅ With these steps, I have completed the **fundamentals of React up to Props**.
