@@ -103,6 +103,78 @@ gothrougth files
  * key1.jsx 
 ---
 
-✅ With these steps, I have completed the **fundamentals of React up to Props**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# note 
+🔎 Simple Browser in VS Code
+
+Instead of switching tabs, you can open any URL directly inside VS Code using the Simple Browser.
+
+Shortcut:
+
+Press Ctrl + Shift + P (or Cmd + Shift + P on Mac).
+
+Search “Simple Browser: Show”.
+
+Paste the URL → the page opens inside VS Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
