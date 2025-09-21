@@ -91,6 +91,7 @@
 ### 📅 Day 7 - Props Types 18/09/25
 
 ### 📅 Day 8 - Dynamic content 19/09/25
+
 gothrouth files 
  * Dyamiccontent1.jsx using props
  * Dynamiccontent2.jsx using conditional rendering
@@ -99,8 +100,79 @@ gothrouth files
 
 ### 📅 Day 9 - Keys in react 20/09/25
 Mostly when rendering lists using .map().
+
 gothrougth files
- * key1.jsx 
+ * key1.jsx
+
+### 📅 Day 10 - Filtering and sorting in react 21/09/25
+1. Filtering
+Filtering means showing only specific items from a list based on some condition (like search or category).
+
+2. Sorting
+Sorting means arranging items in ascending or descending order (like price low→high, A→Z, etc.).
+
+gothrougth files
+ * sorting.jsx
+ * filtering.jsx
+
+   ### - Click event in react
+   In React, we use onClick to handle button or element clicks.
+   
+gothrouth file
+ * clickevent1.jsx
+
+<image width=500 height=500 src="https://github.com/user-attachments/assets/6983fa1a-d17a-4f62-b36b-ad8dd9c7b82b"/>
+
+
+<image width=500 height=500 src="https://github.com/user-attachments/assets/ab758420-9fd8-41d3-bc1a-04f72d85d25b"/>
+
+
+<image width=500 height=500 src="https://github.com/user-attachments/assets/fe79ffa5-1b44-4b33-b908-c33e90a5676c"/>
+
+
+<image width=500 height=500 src="https://github.com/user-attachments/assets/fa787da3-10cf-4fc8-b53a-1aff0464bbce"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 ---
 
 
