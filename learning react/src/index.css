@@ -1,7 +1,7 @@
 .course{
   background-color: rgb(1, 1, 1);
   width: 250px;
-  height: 300px;
+  height: 450px;
   border-radius: 10px;
   display: inline-block;
   margin: 30px;
@@ -17,6 +17,7 @@
   transition: all 0.3s ease;
   border-color: rgb(241, 115, 6);
   
+  
 }
 
 .course h3,
@@ -29,4 +30,36 @@
   padding-top: 20px;
   width: 200px;
   height: 200px;
+}
+
+.button{
+  border-radius: 5px;
+  background-color: rgb(241, 115, 6);
+   margin: 5px;
+}
+
+.button:hover{
+  background-color: aliceblue;
+}
+
+
+.button1{
+  border-radius: 5px;
+  background-color: rgb(241, 115, 6);;
+  
+   margin: 5px;
+}
+
+.button1:hover{
+  background-color: aliceblue;
+}
+
+.button2{
+  border-radius: 5px;
+  background-color: rgb(241, 115, 6);
+  margin: 5px;
+}
+
+.button2:hover{
+  background-color: aliceblue;
 }
